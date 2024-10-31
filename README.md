@@ -4,7 +4,7 @@
 Criar um Banco de dados com MySQL para armazenar informações de uma plataforma EAD.
 
 ## Tecnologias:
-- Banco de dados:SQL
+- Banco de dados: SQL
 - Docker: Banco de dados MySQL
 
 ## Descrição:
