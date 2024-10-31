@@ -15,9 +15,9 @@ Possui diagrama funcional.
 
 ### Contribuidores:
 - Breno Vidal
-- Josué
+- Josué Victor
 - Diogo Ribeiro
 - Pedro Janot
-- Lucas
+- Lucas Freire
 - Caio Santana
-- Bruno
+- Bruno Menezes
