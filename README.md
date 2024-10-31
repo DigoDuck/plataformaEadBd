@@ -4,5 +4,13 @@
 Criar um Banco de dados com MySQL para armazenar informações de uma plataforma EAD.
 
 ## Tecnologias:
-- ORM: SQLAlchemy
+- Banco de dados:SQL
 - Docker: Banco de dados MySQL
+
+## Contribuidores:
+- Breno Vidal
+- Josué
+- Diogo
+- Pedro Janot
+- Lucas
+- Caio Santana 
